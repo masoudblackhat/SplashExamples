@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 finish();
             }
-        },8000);
+        },16000);
     }
 }
